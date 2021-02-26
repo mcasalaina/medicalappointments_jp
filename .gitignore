@@ -1,2 +1,10 @@
 
 .DS_Store
+.sfdx/tools/apex.db
+.sfdx/typings/lwc/apex.d.ts
+.sfdx/typings/lwc/engine.d.ts
+.sfdx/typings/lwc/lds.d.ts
+.sfdx/typings/lwc/messageservice.d.ts
+.sfdx/typings/lwc/schema.d.ts
+.sfdx/typings/lwc/user.d.ts
+.vscode/settings.json
